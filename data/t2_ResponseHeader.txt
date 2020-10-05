@@ -1,0 +1,9 @@
+HTTP/1.1 200 OK
+Date: Fri, 02 Oct 2020 06:59:59 GMT
+Server: Apache/2.2.21 (Win32)
+Set-Cookie: dtCookie=v_4_srv_2_sn_A90179D7D3344DA34E59A965CFED19CA_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1; Path=/
+Content-Length: 121
+Keep-Alive: timeout=5, max=96
+Connection: Keep-Alive
+Content-Type: text/plain; charset=utf-8
+

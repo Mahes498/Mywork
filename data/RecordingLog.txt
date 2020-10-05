@@ -1,0 +1,114 @@
+[API Trapper      (7a94:9ed8)] Recording in 32-bit mode: C:\Program Files (x86)\Internet Explorer\iexplore.exe
+[API Trapper      (891c:4bb0)] Recording in 64-bit mode: C:\Program Files\Internet Explorer\IEXPLORE.EXE
+[API Trapper      (31c8:6264)] Recording in 32-bit mode: C:\Program Files (x86)\Internet Explorer\IEXPLORE.EXE
+[Network Analyzer (31c8:9b0c)] ------------------------------------------------------------------------------------------
+[Network Analyzer (31c8:9b0c)] Load Network Traffic Analyzers:
+[Network Analyzer (31c8:9b0c)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (31c8:9b0c)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter.dll)
+[Network Analyzer (31c8:9b0c)]     + Network Analyzer: api_http_filter.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (31c8:9b0c)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter.dll
+[Network Analyzer (31c8:9b0c)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer.dll)
+[Network Analyzer (31c8:9b0c)]     + Network Analyzer: WebSocketAnalyzer.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (31c8:9b0c)]     Analyzer Module: local_server (value=)
+[Network Analyzer (31c8:9b0c)] ------------------------------------------------------------------------------------------
+[Network Analyzer (31c8:a328)] Address lookup for LAPTOP-PS3GIE82 = 192.168.56.1
+[Net An. Debug    (31c8:a328)] IP address belongs to the VirtualBox, taking the another interface with ip=192.168.0.7
+[Net An. Warning  (31c8:9b0c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (31c8:5a30)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (31c8:9b0c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (31c8:5a30)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (31c8:9b0c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (31c8:9b0c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (31c8:5a30)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (31c8:5a30)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (31c8:7cfc)] Address lookup for LAPTOP-PS3GIE82 = 192.168.56.1
+[Network Analyzer (31c8:9b0c)] Address lookup for LAPTOP-PS3GIE82 = 192.168.56.1
+[Network Analyzer (31c8:7cfc)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  1)  PROXIED!
+[Web Request      (31c8:a328)] "GET /WebTours/"   
+[Network Analyzer (31c8:a328)]   (Sid:  1) Client -> Server @ : 291 bytes (Service=HTTP)
+[Network Analyzer (31c8:9b0c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer (31c8:a328)]   (Sid:  1) Server -> Client : 1251 bytes  (Service=HTTP)
+[Web Request      (31c8:a328)] "GET /ruxitagentjs_ICA2SVfqru_10201200909073022.js"   
+[Network Analyzer (31c8:a328)]   (Sid:  1) Client -> Server @ : 440 bytes (Service=HTTP)
+[Network Analyzer (31c8:a328)]   (Sid:  1) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (31c8:a328)]   (Sid:  1) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (31c8:a328)]   (Sid:  1) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (31c8:a328)]   (Sid:  1) Server -> Client : 13839 bytes  (Service=HTTP)
+[Web Request      (31c8:a328)] "GET /WebTours/header.html"   
+[Network Analyzer (31c8:a328)]   (Sid:  1) Client -> Server @ : 601 bytes (Service=HTTP)
+[Network Analyzer (31c8:a328)]   (Sid:  1) Server -> Client : 1492 bytes  (Service=HTTP)
+[Web Request      (31c8:a328)] "GET /cgi-bin/welcome.pl?signOff=true"   
+[Network Analyzer (31c8:a328)]   (Sid:  2) Client -> Server @ : 612 bytes (Service=HTTP)
+[Web Request      (31c8:a328)] "GET /WebTours/images/hp_logo.png"   
+[Network Analyzer (31c8:a328)]   (Sid:  1) Client -> Server @ : 632 bytes (Service=HTTP)
+[Network Analyzer (31c8:a328)]   (Sid:  1) Server -> Client : 898 bytes  (Service=HTTP)
+[Web Request      (31c8:a328)] "GET /WebTours/images/webtours.png"   
+[Network Analyzer (31c8:a328)]   (Sid:  1) Client -> Server @ : 633 bytes (Service=HTTP)
+[Network Analyzer (31c8:a328)]   (Sid:  1) Server -> Client : 4487 bytes  (Service=HTTP)
+[Network Analyzer (31c8:9b0c)] Address lookup for LAPTOP-PS3GIE82 = 192.168.56.1
+[Network Analyzer (31c8:9b0c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  3)  PROXIED!
+[Network Analyzer (31c8:a328)]   (Sid:  2) Server -> Client : 1466 bytes  (Service=HTTP)
+[Web Request      (31c8:a328)] "GET /cgi-bin/nav.pl?in=home"   
+[Network Analyzer (31c8:a328)]   (Sid:  2) Client -> Server @ : 664 bytes (Service=HTTP)
+[Web Request      (31c8:a328)] "GET /WebTours/home.html"   
+[Network Analyzer (31c8:a328)]   (Sid:  1) Client -> Server @ : 660 bytes (Service=HTTP)
+[Network Analyzer (31c8:a328)]   (Sid:  1) Server -> Client : 2144 bytes  (Service=HTTP)
+[Network Analyzer (31c8:a328)]   (Sid:  2) Server -> Client : 2207 bytes  (Service=HTTP)
+[Network Analyzer (31c8:a328)]   (Sid:  2) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (31c8:a328)] "GET /WebTours/images/mer_login.gif"   
+[Network Analyzer (31c8:a328)]   (Sid:  2) Client -> Server @ : 693 bytes (Service=HTTP)
+[Network Analyzer (31c8:a328)]   (Sid:  2) Server -> Client : 976 bytes  (Service=HTTP)
+[Web Request      (31c8:a328)] "GET /favicon.ico"   
+[Network Analyzer (31c8:a328)]   (Sid:  2) Client -> Server @ : 517 bytes (Service=HTTP)
+[Network Analyzer (31c8:a328)]   (Sid:  2) Server -> Client : 424 bytes  (Service=HTTP)
+[Network Analyzer (31c8:a328)]   (Sid:  2) Client -> Server @ : 925 bytes (Service=HTTP)
+[Web Request      (31c8:a328)] "POST /rb_bf70382eeh?type=js3&sn=v_4_srv_2_sn_A90179D7D3344DA34E59A965CFED19CA_perc_100000_ol_0_mul_1&svrid=2&flavor=post&vi=UHPRFAASHJFMCIRKJSNPUITMCHACHKIP-0&modifiedSince=1601365711296&rf=http%3A%2F%2Flocalhost%3A1080%2FWebTours%2Fheader.html&bp=3&app=ea7c4b59f27d43eb&end=1"   
+[Network Analyzer (31c8:a328)]   (Sid:  2) Client -> Server @ : 799 bytes (Service=HTTP)
+[Network Analyzer (31c8:a328)]   (Sid:  2) Server -> Client : 449 bytes  (Service=HTTP)
+[Network Analyzer (31c8:a328)]   (Sid:  2) Client -> Server @ : 1000 bytes (Service=HTTP)
+[Network Analyzer (31c8:a328)]   (Sid:  1) Client -> Server @ : 952 bytes (Service=HTTP)
+[Web Request      (31c8:a328)] "POST /rb_bf70382eeh?type=js3&sn=v_4_srv_2_sn_A90179D7D3344DA34E59A965CFED19CA_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1&svrid=2&flavor=post&vi=UHPRFAASHJFMCIRKJSNPUITMCHACHKIP-0&modifiedSince=1601365711296&rf=http%3A%2F%2Flocalhost%3A1080%2Fcgi-bin%2Fwelcome.pl%3FsignOff%3Dtrue&bp=3&app=ea7c4b59f27d43eb&end=1"   
+[Network Analyzer (31c8:a328)]   (Sid:  2) Client -> Server @ : 836 bytes (Service=HTTP)
+[Web Request      (31c8:a328)] "POST /rb_bf70382eeh?type=js3&sn=v_4_srv_2_sn_A90179D7D3344DA34E59A965CFED19CA_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1&svrid=2&flavor=post&vi=UHPRFAASHJFMCIRKJSNPUITMCHACHKIP-0&modifiedSince=1601365711296&rf=http%3A%2F%2Flocalhost%3A1080%2FWebTours%2F&bp=3&app=ea7c4b59f27d43eb&end=1"   
+[Network Analyzer (31c8:a328)]   (Sid:  1) Client -> Server @ : 700 bytes (Service=HTTP)
+[Network Analyzer (31c8:a328)]   (Sid:  2) Server -> Client : 325 bytes  (Service=HTTP)
+[Network Analyzer (31c8:a328)]   (Sid:  1) Server -> Client : 325 bytes  (Service=HTTP)
+[Network Analyzer (31c8:a328)]   (Sid:  1) Client -> Server @ : 970 bytes (Service=HTTP)
+[Web Request      (31c8:a328)] "POST /rb_bf70382eeh?type=js3&sn=v_4_srv_2_sn_A90179D7D3344DA34E59A965CFED19CA_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1&svrid=2&flavor=post&vi=UHPRFAASHJFMCIRKJSNPUITMCHACHKIP-0&modifiedSince=1601365711296&rf=http%3A%2F%2Flocalhost%3A1080%2FWebTours%2Fhome.html&bp=3&app=ea7c4b59f27d43eb&end=1"   
+[Network Analyzer (31c8:a328)]   (Sid:  1) Client -> Server @ : 833 bytes (Service=HTTP)
+[Network Analyzer (31c8:a328)]   (Sid:  1) Server -> Client : 325 bytes  (Service=HTTP)
+[Network Analyzer (31c8:a328)]   (Sid:  1) Client -> Server @ : 983 bytes (Service=HTTP)
+[Web Request      (31c8:a328)] "POST /rb_bf70382eeh?type=js3&sn=v_4_srv_2_sn_A90179D7D3344DA34E59A965CFED19CA_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1&svrid=2&flavor=post&vi=UHPRFAASHJFMCIRKJSNPUITMCHACHKIP-0&modifiedSince=1601365711296&rf=http%3A%2F%2Flocalhost%3A1080%2Fcgi-bin%2Fnav.pl%3Fin%3Dhome&bp=3&app=ea7c4b59f27d43eb&end=1"   
+[Network Analyzer (31c8:a328)]   (Sid:  1) Client -> Server @ : 859 bytes (Service=HTTP)
+[Network Analyzer (31c8:a328)]   (Sid:  1) Server -> Client : 325 bytes  (Service=HTTP)
+[Network Analyzer (31c8:a328)]   (Sid:  1) Client -> Server @ : 974 bytes (Service=HTTP)
+[Web Request      (31c8:a328)] "POST /rb_bf70382eeh?type=js3&sn=v_4_srv_2_sn_A90179D7D3344DA34E59A965CFED19CA_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1&svrid=2&flavor=post&vi=UHPRFAASHJFMCIRKJSNPUITMCHACHKIP-0&modifiedSince=1601365711296&rf=http%3A%2F%2Flocalhost%3A1080%2FWebTours%2Fheader.html&bp=3&app=ea7c4b59f27d43eb&end=1"   
+[Network Analyzer (31c8:a328)]   (Sid:  1) Client -> Server @ : 590 bytes (Service=HTTP)
+[Network Analyzer (31c8:a328)]   (Sid:  1) Server -> Client : 325 bytes  (Service=HTTP)
+[Network Analyzer (31c8:a328)]   (Sid:  1) Client -> Server @ : 1000 bytes (Service=HTTP)
+[Web Request      (31c8:a328)] "POST /rb_bf70382eeh?type=js3&sn=v_4_srv_2_sn_A90179D7D3344DA34E59A965CFED19CA_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1&svrid=2&flavor=post&vi=UHPRFAASHJFMCIRKJSNPUITMCHACHKIP-0&modifiedSince=1601365711296&rf=http%3A%2F%2Flocalhost%3A1080%2Fcgi-bin%2Fwelcome.pl%3FsignOff%3Dtrue&bp=3&app=ea7c4b59f27d43eb&end=1"   
+[Network Analyzer (31c8:a328)]   (Sid:  1) Client -> Server @ : 577 bytes (Service=HTTP)
+[Network Analyzer (31c8:a328)]   (Sid:  2) Client -> Server @ : 952 bytes (Service=HTTP)
+[Network Analyzer (31c8:a328)]   (Sid:  1) Server -> Client : 325 bytes  (Service=HTTP)
+[Web Request      (31c8:a328)] "POST /rb_bf70382eeh?type=js3&sn=v_4_srv_2_sn_A90179D7D3344DA34E59A965CFED19CA_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1&svrid=2&flavor=post&vi=UHPRFAASHJFMCIRKJSNPUITMCHACHKIP-0&modifiedSince=1601365711296&rf=http%3A%2F%2Flocalhost%3A1080%2FWebTours%2F&bp=3&app=ea7c4b59f27d43eb&end=1"   
+[Network Analyzer (31c8:a328)]   (Sid:  2) Client -> Server @ : 564 bytes (Service=HTTP)
+[Network Analyzer (31c8:a328)]   (Sid:  2) Server -> Client : 325 bytes  (Service=HTTP)
+[Network Analyzer (31c8:a328)]   (Sid:  2) Client -> Server @ : 982 bytes (Service=HTTP)
+[Web Request      (31c8:a328)] "POST /rb_bf70382eeh?type=js3&sn=v_4_srv_2_sn_A90179D7D3344DA34E59A965CFED19CA_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1&svrid=2&flavor=post&vi=UHPRFAASHJFMCIRKJSNPUITMCHACHKIP-0&modifiedSince=1601365711296&rf=http%3A%2F%2Flocalhost%3A1080%2Fcgi-bin%2Fnav.pl%3Fin%3Dhome&bp=3&app=ea7c4b59f27d43eb&end=1"   
+[Network Analyzer (31c8:a328)]   (Sid:  2) Client -> Server @ : 510 bytes (Service=HTTP)
+[Network Analyzer (31c8:a328)]   (Sid:  2) Server -> Client : 325 bytes  (Service=HTTP)
+[Network Analyzer (31c8:a328)]   (Sid:  1) Connection Terminated (by Server)
+[Network Analyzer (31c8:a328)]   (Sid:  2) Connection Terminated (by Server)
+[Network Analyzer (891c:9fd4)] ------------------------------------------------------------------------------------------
+[Network Analyzer (891c:9fd4)] Load Network Traffic Analyzers:
+[Network Analyzer (891c:9fd4)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (891c:9fd4)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter_x64.dll)
+[Network Analyzer (891c:9fd4)]     + Network Analyzer: api_http_filter_x64.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (891c:9fd4)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter_x64.dll
+[Network Analyzer (891c:9fd4)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer_x64.dll)
+[Network Analyzer (891c:9fd4)]     + Network Analyzer: WebSocketAnalyzer_x64.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (891c:9fd4)]     Analyzer Module: local_server (value=)
+[Network Analyzer (891c:9fd4)] ------------------------------------------------------------------------------------------
+[Network Analyzer (891c:9a48)] Address lookup for LAPTOP-PS3GIE82 = 192.168.56.1
+[Net An. Debug    (891c:9a48)] IP address belongs to the VirtualBox, taking the another interface with ip=192.168.0.7
+[User action                 ] StartTransactionEvent 2_login [User action                 ] EndTransactionEvent 2_login [User action                 ] StartTransactionEvent 03_flights [User action                 ] EndTransactionEvent 03_flights [User action                 ] StartTransactionEvent 03_find flight_conitnue [User action                 ] EndTransactionEvent 03_find flight_conitnue [User action                 ] StartTransactionEvent 04_select flight [User action                 ] EndTransactionEvent 04_select flight [User action                 ] StartTransactionEvent 05_payment [User action                 ] EndTransactionEvent 05_payment [User action                 ] StartTransactionEvent 06_logout [User action                 ] EndTransactionEvent 06_logout 

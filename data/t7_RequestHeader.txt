@@ -1,0 +1,13 @@
+POST /rb_bf70382eeh?type=js3&sn=v_4_srv_2_sn_A90179D7D3344DA34E59A965CFED19CA_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1&svrid=2&flavor=post&vi=UHPRFAASHJFMCIRKJSNPUITMCHACHKIP-0&modifiedSince=1601365711296&rf=http%3A%2F%2Flocalhost%3A1080%2FWebTours%2Fheader.html&bp=3&app=ea7c4b59f27d43eb&end=1 HTTP/1.1
+Accept: */*
+Content-Type: text/plain;charset=UTF-8
+Referer: http://localhost:1080/WebTours/header.html
+Accept-Language: en-IN,en-US;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Host: localhost:1080
+Content-Length: 590
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: dtCookie=v_4_srv_2_sn_A90179D7D3344DA34E59A965CFED19CA_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1; rxVisitor=1601621998299GN4Q75FVKR2A2OKE31JGT1NDDEMCUO0O; dtPC=2$221998290_833h-vUHPRFAASHJFMCIRKJSNPUITMCHACHKIP-0e5; rxvt=1601623798970|1601621998302; dtSa=-; dtLatC=7; MSO=SID&1601621998
+
